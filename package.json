@@ -1,0 +1,9 @@
+{
+    "name": "addIndex",
+    "bin": {
+        "addIndex": "addIndex"
+    },
+    "scripts": {
+        "addIndex": "node index.js"
+    }
+}
