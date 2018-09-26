@@ -9,3 +9,7 @@
 ```shell
 addIndex fileName
 ```
+
+### TODO
+1. 防止重复添加(条件为 # 目录)
+2. 增加参数(第一个 # 有几个)
