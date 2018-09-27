@@ -5,6 +5,12 @@
 3. 运行 `npm link`
 4. 即全局安装好了 `addIndex`
 
+### npm 安装方法
+```
+npm install -g md_add_index
+```
+即可全局使用 `addIndex`.
+
 ### 使用
 ```shell
 addIndex fileName

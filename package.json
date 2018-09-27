@@ -1,5 +1,8 @@
 {
-    "name": "addIndex",
+    "name": "md_add_index",
+    "author": "clchenliang@hotmail.com",
+    "github": "https://github.com/clChenLiang/node-cmd-addIndex.git",
+    "version": "0.1.0",
     "bin": {
         "addIndex": "index.js"
     },
